@@ -1,7 +1,7 @@
 Full Stack React App with React FrontEnd and Spring-Boot backend.
 
 **Front-end Development (React):**
-Spearheaded the design and implementation of the user interface using React.js, enabling patrons to seamlessly interact with library resources.
+Spearheaded the design and implementation of the user interface using React.js, enabling users to seamlessly interact with library resources.
 Developed responsive UI components for book browsing, search, and checkout functionalities, ensuring optimal user experience across desktop and mobile devices.
 
 **Back-end Development (Spring Boot):**
@@ -9,7 +9,7 @@ Engineered RESTful APIs with Spring Boot to facilitate communication between the
 
 
 **Database Management:**
-Designed and optimized the database schema using MySQL to efficiently store and manage information about books and transactions.
+Designed and optimized the database schema using MySQL to efficiently store and manage information about books ,users, and transactions.
 Implemented data access layer with Spring Data JPA to interact with the database, ensuring data consistency and integrity.
 
 
